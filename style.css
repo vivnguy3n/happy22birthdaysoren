@@ -252,6 +252,13 @@ right: 10%;
 transform: rotate(7deg);
 }
 
+/* ghost photo */
+.photo:nth-child(2) {
+top: 12%;
+left: 70%;
+transform: rotate(-4deg);
+}
+
 /* HEARTBEAT ANIMATION */
 @keyframes heartbeatGlow {
 0% {
