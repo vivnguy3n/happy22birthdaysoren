@@ -330,3 +330,18 @@ padding: 14px;
 font-size: 16px;
 }
 }
+
+/* BACKGROUND */
+body {
+background-image: url('birthday-site2/envelope-bg.jpg'); 
+background-size: cover; /* fill the screen */
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed; /* optional “parallax” feel */
+background-color: #f9f9f9; /* fallback color while image loads */
+}
+.main-content {
+background: rgba(255, 255, 255, 0.85);
+padding: 2rem;
+border-radius: 16px;
+}
